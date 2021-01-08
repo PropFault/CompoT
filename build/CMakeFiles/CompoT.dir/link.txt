@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\CompoT.dir/objects.a
+E:\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\CompoT.dir/objects.a @CMakeFiles\CompoT.dir\objects1.rsp
+E:\Qt\Tools\mingw810_64\bin\x86_64-w64-mingw32-g++.exe    -g        -Wl,--whole-archive CMakeFiles\CompoT.dir/objects.a -Wl,--no-whole-archive  -o bin\CompoT.exe -Wl,--out-implib,lib\libCompoT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CompoT.dir\linklibs.rsp

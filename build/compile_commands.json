@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Users/MoustacheSpy/Documents/MEGA/gamedev/CompoT/build",
+  "command": "E:\\Qt\\Tools\\mingw810_64\\bin\\x86_64-w64-mingw32-g++.exe       -g    -std=gnu++17 -o CMakeFiles\\CompoT.dir\\CompoT.cpp.obj -c E:\\Users\\MoustacheSpy\\Documents\\MEGA\\gamedev\\CompoT\\CompoT.cpp",
+  "file": "E:/Users/MoustacheSpy/Documents/MEGA/gamedev/CompoT/CompoT.cpp"
+}
+]

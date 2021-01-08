@@ -1,0 +1,14 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "path": "conanfile.txt", 
+    "options": "", 
+    "context": "host"
+   }
+  }, 
+  "revisions_enabled": false
+ }, 
+ "version": "0.4", 
+ "profile_host": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Debug\ncompiler=gcc\ncompiler.libcxx=libstdc++11\ncompiler.version=8\nos=Windows\nos_build=Windows\n[options]\n[build_requires]\n[env]\n"
+}
